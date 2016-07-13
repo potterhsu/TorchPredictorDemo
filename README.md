@@ -12,3 +12,6 @@
 
 * ./ImageDemo
 * ./CameraDemo
+
+### Result ###
+![alt tag](https://raw.githubusercontent.com/potterhsu/TorchPredictorDemo/master/demo.jpg)
