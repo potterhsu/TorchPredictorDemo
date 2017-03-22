@@ -1,6 +1,6 @@
 # TorchPredictorDemo #
 
-### Demo for classifier of face and gender from image or camera using TrochPredictor ###
+### Demo for classifier of face and gender from image or camera using TrochPredictor with fine-tuned VGG model ###
 
 ### Setup ###
 
