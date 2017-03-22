@@ -1,6 +1,6 @@
-# README #
+# TorchPredictorDemo #
 
-### Demo for TorchPredictor ###
+### Demo for classifier of face and gender from image or camera using TrochPredictor ###
 
 ### Setup ###
 
@@ -49,7 +49,7 @@
 * Camera demo for gender classification
 
 	```
-	./CameraDemo 2 ../vgg_gender_model.tpb ../haarcascade_frontalface_alt2.xml
+	$ ./CameraDemo 2 ../vgg_gender_model.tpb ../haarcascade_frontalface_alt2.xml
 	Parsing model...
 	Ready
 	```
